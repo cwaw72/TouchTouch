@@ -3,9 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 <<<<<<< HEAD
+<<<<<<< HEAD
     android:orientation="vertical"
     android:id="@+id/id_main">
 
+=======
+    android:orientation="vertical">
+>>>>>>> 8daf73ff24a13d38fd5da819b67f0896454adc51
 =======
     android:orientation="vertical">
 >>>>>>> 8daf73ff24a13d38fd5da819b67f0896454adc51
@@ -45,11 +49,14 @@
     </LinearLayout>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     <com.example.user.touchtouch.TouchEventView
         android:id="@+id/my_view"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         />
+=======
+>>>>>>> 8daf73ff24a13d38fd5da819b67f0896454adc51
 =======
 >>>>>>> 8daf73ff24a13d38fd5da819b67f0896454adc51
 </LinearLayout>
