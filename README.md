@@ -12,4 +12,8 @@
   
 구현 내용
   - 설정 모드로 스마트폰 화면 터치패턴에 따라 어떤 어플을 실행할지 설정한다.
+  - 
+  
+//소스
+https://gist.github.com/cwaw72/e3e8ce401ba2deab04fe
 
